@@ -1,0 +1,18 @@
+MBK-205;Opel;Vectra;2005;Benzines hajtású
+HJL-750;BMW;X5;2018;gázolajjal működik
+JKL-402;Mercedes;AMG;1998;Benzines hajtású
+LLL-520;Toyota;Mirai;2020;elektromos hajtású
+;;;;Nem választott!
+MBK-205;;;;Nem választott!
+;;;;Nem választott!
+;dfghfdhfh;;;Nem választott!
+;dfghfdhfh;;;Nem választott!
+;;;;Nem választott!
+;;;;Nem választott!
+;;;;Nem választott!
+;;;;Nem választott!
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
